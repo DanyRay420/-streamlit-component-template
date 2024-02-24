@@ -8,7 +8,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "streamlit-component-lib": "^2.0.0",
-    "styletron-engine-atomic": "^1.5.0",
+    "styletron-engine-atomic": "^1.6.2",
     "styletron-react": "^6.1.0"
   },
   "scripts": {
