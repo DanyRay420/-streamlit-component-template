@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.11.0",
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "streamlit-component-lib": "^2.0.0"
